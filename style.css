@@ -68,7 +68,7 @@ header
 
 
 /* Mobile screen version of header */
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
 .avatar-container
 {
 text-align: center;
@@ -101,7 +101,7 @@ padding-right:0;
 padding-top:0%;
 padding-left:0;
 }
-}
+}*/
 /*---------------------------------------------------------*/
 /*---------------------------------------------------------*/
 
