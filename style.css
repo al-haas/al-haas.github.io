@@ -5,10 +5,10 @@ body{
 	text-align:center; 
 	line-height:1.5;
 }
-a:link{color:#212194}
-a:visited{color:#212194}
-a:hover{color:#212194}
-a:active{color:#212194} 
+a:link{color:rgb(0,0,139)}
+a:visited{color:rgb(0,0,139)}
+a:hover{color:rgb(0,0,139)}
+a:active{color:rgb(0,0,139)} 
 
 
 
@@ -68,11 +68,7 @@ header
 
 
 /* Mobile screen version of header */
-@media screen and (max-width: 775px) {
-/*.container{ 
-width: 100%;
-text-align: center; 
-}*/
+@media screen and (max-width: 775px){
 
 .parent{ 
 padding-bottom:5%;
