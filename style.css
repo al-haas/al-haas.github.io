@@ -70,7 +70,7 @@ header
 
 
 /* Mobile screen version of header */
-@media screen and (max-width: 775px){
+@media screen and (max-width:800px){
 
 .parent{ 
 padding-bottom:5%;
