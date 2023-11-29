@@ -5,10 +5,10 @@ body{
 	text-align:center; 
 	line-height:1.5;
 }
-a:link{color:rgb(0,0,139)}
-a:visited{color:rgb(0,0,139)}
-a:active{color:rgb(0,0,139)}
-a:hover{color:rgb(0,0,139); text-decoration:underline;}
+a:link{color:rgb(0,0,160)}
+a:visited{color:rgb(0,0,160)}
+a:active{color:rgb(0,0,160)}
+a:hover{color:rgb(0,0,160) text-decoration:underline;}
 a{text-decoration: none;}
 
 
