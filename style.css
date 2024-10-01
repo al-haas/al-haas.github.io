@@ -29,7 +29,7 @@ a{text-decoration: none;}
 /*---------------------------------------------------------*/
 header
 .parent{
-  max-width:975px;
+  max-width:800px;
   font-size:16px;
   width:98%;
   text-align:center;
@@ -44,7 +44,8 @@ header
   width:38%;
   /*max-width:200px;*/
   vertical-align:top;
-  text-align:left; 
+  text-align:left;
+  padding-top:15px;
   padding-right:1.5%;
   padding-left:2.5%;
   /*border:1px solid black;*/
@@ -53,7 +54,7 @@ header
 .avatar-container{
   text-align:right;
   display:block;
-  padding-top:5px;
+  padding-top:0px;
 }
 
 .child2{
@@ -61,7 +62,8 @@ header
   width:53%;
   /*max-width:400px;*/
   vertical-align:top;
-  text-align:left; 
+  text-align:left;
+  padding-top:20px;
   padding-right:1.5%;
   padding-left:2.5%;
   /*border:1px solid black;*/
@@ -103,7 +105,7 @@ text-align: center;
 /*---------------------------------------------------------*/
 content
 .container{
-  max-width:975px;
+  max-width:800px;
   font-size:14px;
   width:98%;
   /*border:1px solid black;*/
@@ -117,7 +119,7 @@ content
 }
 
 .profile{
-  padding-top:10px;
+  padding-top:12px;
   padding-bottom:10px;
 }
 
