@@ -119,26 +119,25 @@ content
 }
 
 .profile{
-  padding-top:12px;
-  padding-bottom:10px;
+  padding-top:10px;
+  padding-bottom:2px;
+}
+
+.upcoming{
+  font-size:13px;
+  padding-top:0px;
+  padding-bottom:2px;
 }
 
 .paper-title{
-  padding-top:5px;
-  padding-bottom:2.5px;
-}
-
-.paper-journal{
-  padding-top:0px;
-  padding-bottom:2.5px;
-  font-size:13px;
+  padding-top:0pxx;
+  padding-bottom:2px;
 }
 
 .paper-abstract{
   font-size:11px;
   padding-top:0px;
-  padding-bottom:2.5px;
-  line-height:1.25;
+  padding-bottom:2px;
 }
 
 /*---------------------------------------------------------*/
