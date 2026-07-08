@@ -1,0 +1,8 @@
+PWD /Users/ahaa0006/Documents/GitHub/al-haas.github.io
+INPUT /usr/local/texlive/2025/texmf.cnf
+INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/ahaa0006/Documents/GitHub/al-haas.github.io/index.html
+OUTPUT build/index.log
+OUTPUT build/index.pdf
+INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
